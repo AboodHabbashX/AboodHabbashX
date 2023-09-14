@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Java**
 
+- 📫 How to reach me **aboodhabbash@gmail.com**
+
 - ⚡ Fun fact **Nothing to Say :D**
 
 <h3 align="left">Connect with me:</h3>
