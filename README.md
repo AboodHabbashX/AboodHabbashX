@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **aboodhabbash@gmail.com**
+- 📫 How to reach me **abdallahalhabbash@gmail.com**
 
 - ⚡ Fun fact **Nothing to Say :D**
 
