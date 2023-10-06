@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **Spring Frame Work and**
+- 🌱 I’m currently learning **Spring Frame Work**
 
 - 💬 Ask me about **Java**
 
